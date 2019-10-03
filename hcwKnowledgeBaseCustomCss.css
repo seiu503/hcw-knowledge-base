@@ -1,0 +1,19 @@
+.forceTopicFeaturedTopics .topicLabel {
+    font-size: 2rem !important;
+}
+
+.forceCommunityTopArticleList .title,
+.forceCommunityTopArticleListForTopic .topicHeader,
+.topicHeaderLink,
+.forceCommunityTopArticleItem .article-title {
+    font-size: 1.2rem !important;
+}
+
+.itemBody,
+.selfServiceArticleLayout {
+    font-size: 1.2rem !important;
+}
+
+div[data-region-name="content"] article.content .forcePageBlock .slds-section:nth-child(1) {display:none !important;}
+div[data-region-name="content"] article.content .forcePageBlock .slds-section:nth-child(2) {}
+div[data-region-name="content"] article.content .forcePageBlock .slds-section:nth-child(3) {display:none !important;}
